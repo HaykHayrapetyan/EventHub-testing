@@ -1,0 +1,11 @@
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\bin\Debug\netcoreapp2.0\eventReceiver.deps.json
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\bin\Debug\netcoreapp2.0\eventReceiver.runtimeconfig.json
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\bin\Debug\netcoreapp2.0\eventReceiver.runtimeconfig.dev.json
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\bin\Debug\netcoreapp2.0\eventReceiver.dll
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\bin\Debug\netcoreapp2.0\eventReceiver.pdb
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\obj\Debug\netcoreapp2.0\eventReceiver.csprojAssemblyReference.cache
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\obj\Debug\netcoreapp2.0\eventReceiver.csproj.CoreCompileInputs.cache
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\obj\Debug\netcoreapp2.0\eventReceiver.AssemblyInfoInputs.cache
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\obj\Debug\netcoreapp2.0\eventReceiver.AssemblyInfo.cs
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\obj\Debug\netcoreapp2.0\eventReceiver.dll
+C:\Users\Hayk\Documents\eventReceiver\eventReceiver\obj\Debug\netcoreapp2.0\eventReceiver.pdb
